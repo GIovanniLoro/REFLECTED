@@ -1,0 +1,14 @@
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\bin\Debug\net8.0-windows\Client.exe
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\bin\Debug\net8.0-windows\Client.deps.json
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\bin\Debug\net8.0-windows\Client.runtimeconfig.json
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\bin\Debug\net8.0-windows\Client.dll
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\bin\Debug\net8.0-windows\Client.pdb
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.AssemblyInfoInputs.cache
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.AssemblyInfo.cs
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.dll
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\refint\Client.dll
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.pdb
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\Client.genruntimeconfig.cache
+C:\Users\giovanni\Documents\Scuola\Programmazione\Test_remote_desktop\Reflected\Client\obj\Debug\net8.0-windows\ref\Client.dll
